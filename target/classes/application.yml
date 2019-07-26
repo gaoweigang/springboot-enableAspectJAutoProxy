@@ -1,0 +1,8 @@
+
+server:
+  port: 8088
+#使用EnableAspectJAutoProxy注解配置
+#spring:
+#  aop:
+#    proxy-target-class: false
+
