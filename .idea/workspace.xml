@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f710c32b-727b-4305-9c37-506661fb6625" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/ProxyConfig.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy13.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy13.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy19.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy19.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy23.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy23.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy24.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy24.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy25.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy25.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy26.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy26.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy3.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy3.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy30.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy30.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy31.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy31.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy4.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy4.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy43.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy43.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy45.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy45.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy46.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy46.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy5.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy5.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy61.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy61.class" />
-      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy8.class" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy8.class" />
-      <change beforePath="$PROJECT_DIR$/output.error.log" afterPath="$PROJECT_DIR$/output.error.log" />
-      <change beforePath="$PROJECT_DIR$/output.log" afterPath="$PROJECT_DIR$/output.log" />
-      <change beforePath="$PROJECT_DIR$/springboot-enableAspectJAutoProxy.iml" afterPath="$PROJECT_DIR$/springboot-enableAspectJAutoProxy.iml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gwg/shiro/web/Application.java" afterPath="$PROJECT_DIR$/src/main/java/com/gwg/shiro/web/Application.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" afterPath="$PROJECT_DIR$/target/classes/application.yml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gwg/shiro/web/Application.class" afterPath="$PROJECT_DIR$/target/classes/com/gwg/shiro/web/Application.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gwg/shiro/web/service/impl/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/gwg/shiro/web/service/impl/UserServiceImpl.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,52 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AbstractAutoProxyCreator.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.class">
+      <file leaf-file-name="AbstractAutoProxyCreator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3400">
-              <caret line="248" column="29" lean-forward="false" selection-start-line="248" selection-start-column="29" selection-end-line="248" selection-end-column="29" />
-              <folding>
-                <marker date="1552379929414" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1552379929414" expanded="false" signature="167:1628" ph="..." />
-                <marker date="1552379929414" expanded="true" signature="2765:2772" ph="{}" />
-                <marker date="1552379929414" expanded="false" signature="2815:2826" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="2852:2858" ph=" }" />
-                <marker date="1552379929414" expanded="false" signature="2889:2900" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="2924:2930" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="3021:3090" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="3183:3254" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="3319:3330" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="3371:3377" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="3465:3546" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="3603:3614" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="3645:3651" ph=" }" />
-                <marker date="1552379929414" expanded="false" signature="3695:3706" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="3730:3736" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="3811:4037" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="4157:4185" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="4279:4545" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="4655:5705" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="5785:5796" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="5808:5814" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="5944:5971" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="6052:6063" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="6075:6081" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="6184:6476" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="6548:6753" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="6839:7875" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="7941:8368" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="8439:8450" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="8463:8469" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="8557:9335" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="9465:10503" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="10587:10772" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="10817:10828" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="10841:10847" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="10935:12158" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="12208:12884" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="12954:12961" ph="{}" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,10 +40,17 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gwg/shiro/web/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            <state relative-caret-position="425">
+              <caret line="32" column="34" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="32" selection-end-column="34" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProxyConfig.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/ProxyConfig.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -211,49 +153,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProxyCreatorSupport.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/ProxyCreatorSupport.class">
+      <file leaf-file-name="ProxyCreatorSupport.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyCreatorSupport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="50" column="47" lean-forward="false" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
-              <folding>
-                <marker date="1552379929414" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1552379929414" expanded="false" signature="157:268" ph="..." />
-                <marker date="1552379929414" expanded="false" signature="513:524" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="576:582" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="648:780" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="850:982" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="1031:1042" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="1070:1076" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="1139:1261" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="1327:1452" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="1513:1651" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="1681:1932" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="1969:2351" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="2404:2415" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="2434:2440" ph=" }" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AopProxyFactory.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/AopProxyFactory.class">
+      <file leaf-file-name="AopProxyFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/AopProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <marker date="1552379929414" expanded="false" signature="0:104" ph="/.../" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gwg/shiro/web/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -269,44 +183,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultAopProxyFactory.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.class">
+      <file leaf-file-name="DefaultAopProxyFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <marker date="1552379929414" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1552379929414" expanded="false" signature="157:254" ph="..." />
-                <marker date="1552379929414" expanded="true" signature="371:378" ph="{}" />
-                <marker date="1552379929414" expanded="true" signature="464:1127" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="1205:1369" ph="{...}" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProxyFactory.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/ProxyFactory.class">
+      <file leaf-file-name="ProxyFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding>
-                <marker date="1552379929414" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1552379929414" expanded="false" signature="157:284" ph="..." />
-                <marker date="1552379929414" expanded="true" signature="368:375" ph="{}" />
-                <marker date="1552379929414" expanded="true" signature="416:520" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="571:582" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="618:624" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="700:787" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="865:959" ph="{...}" />
-                <marker date="1552379929414" expanded="false" signature="989:1000" ph=" { " />
-                <marker date="1552379929414" expanded="false" signature="1040:1046" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="1099:1110" ph=" { " />
-                <marker date="1552379929414" expanded="true" signature="1161:1167" ph=" }" />
-                <marker date="1552379929414" expanded="true" signature="1252:1334" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="1421:1504" ph="{...}" />
-                <marker date="1552379929414" expanded="true" signature="1567:1983" ph="{...}" />
-              </folding>
+            <state relative-caret-position="561">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -476,6 +368,11 @@
             <path>
               <item name="springboot-multipleDataSource" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-enableAspectJAutoProxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-multipleDataSource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-enableAspectJAutoProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-multipleDataSource" type="b2602c69:ProjectViewProjectNode" />
@@ -733,15 +630,16 @@
       <workItem from="1564141894522" duration="9000" />
       <workItem from="1564141944749" duration="3417000" />
       <workItem from="1564195861345" duration="15536000" />
-      <workItem from="1564219957497" duration="3000" />
+      <workItem from="1564219957497" duration="198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62579000" />
+    <option name="totallyTimeSpent" value="62774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -912,40 +810,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/userService-cglib(动态代理)/UserServiceImpl$$EnhancerBySpringCGLIB$$f32bc530.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="40" column="75" lean-forward="false" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/sun/proxy/$Proxy61.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/脚本.sql" />
-    <entry file="file://$PROJECT_DIR$/springboot-enableAspectJAutoProxy.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="111" lean-forward="false" selection-start-line="53" selection-start-column="111" selection-end-line="53" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/使用proxyTargetClassIsFalse时-自己不能注入自己.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1995,10 +1859,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyCreatorSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/AopProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ProxyConfig.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gwg/shiro/web/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        <state relative-caret-position="425">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="32" selection-end-column="34" />
           <folding />
         </state>
       </provider>
