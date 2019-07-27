@@ -1,5 +1,7 @@
 package com.gwg.shiro.web;
 
+import org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator;
+import org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
@@ -18,7 +20,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  *
  *
  */
-@EnableAspectJAutoProxy(proxyTargetClass = false)//在Springboot中，AOP默认是开启的，等价spring.aop.proxy-target-class配置
+@EnableAspectJAutoProxy(proxyTargetClass = true)//在Springboot中，AOP默认是开启的，等价spring.aop.proxy-target-class配置
 //因为我是在DataSourceConfig中自己配置的数据源，因此在此排查SpringBoot自动配置数据源
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 public class Application {

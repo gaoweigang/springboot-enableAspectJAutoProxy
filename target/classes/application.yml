@@ -1,6 +1,6 @@
 
 server:
-  port: 8088
+  port: 8888
 #使用EnableAspectJAutoProxy注解配置
 #spring:
 #  aop:
